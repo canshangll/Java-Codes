@@ -1,0 +1,5 @@
+#written by FileProperties
+#Wed Jul 13 23:06:31 CST 2022
+day=12
+year=2004
+month=1
