@@ -1,3 +1,5 @@
 Redis --- 黑马点评项目
 Algorithms --- 算法学习
 designmode --- 设计模式学习
+RabbitMQ --- 消息队列
+Netty --- Netty网络编程
