@@ -22,7 +22,7 @@ import static com.hmdp.utils.RedisConstants.*;
 public class CacheClient {
 
     private StringRedisTemplate stringRedisTemplate;
-
+    private static final ExecutorService CACHE_REBUILD_EXECUTOR = Executors.newFixedThreadPool(10);
     public CacheClient(StringRedisTemplate stringRedisTemplate) {
         this.stringRedisTemplate = stringRedisTemplate;
     }
@@ -69,7 +69,7 @@ public class CacheClient {
         return r;
     }
 
-    private static final ExecutorService CACHE_REBUILD_EXECUTOR = Executors.newFixedThreadPool(10);
+
 
     public <R, ID> R queryWithLogicalExpire(
             String keyPrefix, ID id, Class<R> type, Function<ID, R> dbFallback,Long time, TimeUnit unit) {
@@ -78,7 +78,7 @@ public class CacheClient {
         String shopJson = stringRedisTemplate.opsForValue().get(key);
         //2.判断是否存在
         if (StrUtil.isBlank(shopJson)) {
-            //3.存在，直接返回
+            //3.不存在，直接返回
             return null;
         }
         //4.命中，需要先把json反序列化为对象
