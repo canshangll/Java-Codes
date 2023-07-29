@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b911dc61-af1b-4416-9207-2823f4111f71" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../hello-spring-boot-starter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-boot-starter/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-boot-starter/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-boot-starter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-boot-starter/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-boot-starter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-boot-starter/hello-spring-boot-starter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-boot-starter/src/main/java/cn/lmj/config/HelloProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-boot-starter/src/main/java/cn/lmj/config/HelloServiceAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-boot-starter/src/main/java/cn/lmj/config/MyLogAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-boot-starter/src/main/java/cn/lmj/log/MyLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-boot-starter/src/main/java/cn/lmj/log/MyLogInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-boot-starter/src/main/java/cn/lmj/service/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring-boot-starter/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/.idea/dubbo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-consumer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-consumer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-consumer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-consumer/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-consumer/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-consumer/src/main/java/com/lmj/gmall/BootUserServiceConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-consumer/src/main/java/com/lmj/gmall/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-consumer/src/main/java/com/lmj/gmall/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-consumer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-consumer/src/test/java/com/lmj/gmall/BootUserServiceConsumerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-provider/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-provider/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-provider/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-provider/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-provider/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-provider/src/main/java/com/lmj/gmall/BootUserServiceProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-provider/src/main/java/com/lmj/gmall/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-provider/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/boot-user-service-provider/src/test/java/com/lmj/gmall/BootUserServiceProviderApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/gmall-interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/gmall-interface/src/main/java/com/lmj/gmall/bean/UserAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/gmall-interface/src/main/java/com/lmj/gmall/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/gmall-interface/src/main/java/com/lmj/gmall/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/gmall-interface/src/main/java/com/lmj/gmall/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/order-service-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/order-service-consumer/src/main/java/com/lmj/gmall/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/order-service-consumer/src/main/java/com/lmj/gmall/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/order-service-consumer/src/main/resources/consumer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/user-service-provider/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/user-service-provider/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/user-service-provider/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/user-service-provider/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/user-service-provider/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/user-service-provider/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/user-service-provider/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/user-service-provider/src/main/java/com/lmj/gmall/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/user-service-provider/src/main/java/com/lmj/gmall/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/user-service-provider/src/main/resources/provider.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dubbo/user-service-provider/user-service-provider.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.9.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.9.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2SgyDhRp0R3s46gPPWJTRmzckrw" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/gitHub/Java/Java-Codes/UASystem/starterTest/hello-spring-boot-starter",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "8358a413eaf73ed74c998b8a083871af",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="myapp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b911dc61-af1b-4416-9207-2823f4111f71" name="Changes" comment="" />
+      <created>1689582400827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689582400827</updated>
+      <workItem from="1689582402018" duration="1182000" />
+      <workItem from="1689583691180" duration="3040000" />
+      <workItem from="1689658539764" duration="2798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

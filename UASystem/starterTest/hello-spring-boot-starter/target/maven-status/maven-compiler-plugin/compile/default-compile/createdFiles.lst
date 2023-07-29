@@ -1,0 +1,7 @@
+cn\lmj\config\HelloProperties.class
+cn\lmj\config\MyLogAutoConfiguration.class
+cn\lmj\log\MyLogInterceptor.class
+cn\lmj\config\HelloServiceAutoConfiguration.class
+cn\lmj\log\MyLog.class
+cn\lmj\service\HelloService.class
+META-INF\spring-configuration-metadata.json

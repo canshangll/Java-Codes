@@ -1,0 +1,18 @@
+server:
+  port: 8080
+pinda:
+  swagger:
+    enabled: true
+    title: 测试标题
+    description: 在线文档
+    version: 1.0
+    basePackage: org.example.controller
+#    docket:
+#      menu:
+#        title: 菜单模块
+#        group: 菜单模块组
+#        base-package: org.example.controller.menu
+#      user:
+#        title: 用户模块
+#        group: 用户模块组
+#        base-package: org.example.controller.user

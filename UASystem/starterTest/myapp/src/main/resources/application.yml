@@ -1,0 +1,5 @@
+server:
+  port: 8080
+hello:
+  name: lmj
+  address: zhongshan1

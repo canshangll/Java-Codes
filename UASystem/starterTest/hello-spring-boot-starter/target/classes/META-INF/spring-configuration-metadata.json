@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "hello",
+      "type": "cn.lmj.config.HelloProperties",
+      "sourceType": "cn.lmj.config.HelloProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "hello.address",
+      "type": "java.lang.String",
+      "sourceType": "cn.lmj.config.HelloProperties"
+    },
+    {
+      "name": "hello.name",
+      "type": "java.lang.String",
+      "sourceType": "cn.lmj.config.HelloProperties"
+    }
+  ],
+  "hints": []
+}
