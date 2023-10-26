@@ -16,8 +16,8 @@
     <dependencies>
         <!--引入我们自己定义的dozer基础模块-->
         <dependency>
-            <groupId>com.itheima</groupId>
-            <artifactId>pd-tools-dozer</artifactId>
+            <groupId>org.example</groupId>
+            <artifactId>dokerStater</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
